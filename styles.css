@@ -1,0 +1,37 @@
+/* General layout tweaks */
+body {
+    background-color: #f9f9f9;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Main title */
+h1 {
+    color: #1e3a8a;
+    text-align: center;
+}
+
+/* Sidebar styling */
+section[data-testid="stSidebar"] {
+    background-color: #e0e7ff;
+}
+
+/* App cards or sections */
+.block-container {
+    padding: 2rem;
+}
+
+/* Buttons */
+button[kind="primary"] {
+    background-color: #1e40af;
+    color: white;
+    border-radius: 10px;
+}
+
+button[kind="primary"]:hover {
+    background-color: #1e3a8a;
+}
+
+/* Markdown header style overrides */
+h2 {
+    color: #334155;
+}
