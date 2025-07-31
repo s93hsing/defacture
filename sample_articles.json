@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "source": "BBC",
+    "title": "Manipur clashes escalate as security forces intervene",
+    "content": "Violence has erupted in Manipur with reports of arson and tribal tensions rising. Security forces have been deployed across several districts to restore order."
+  },
+  {
+    "id": 2,
+    "source": "AltSource",
+    "title": "Tribal voices from Manipur reveal years of marginalization",
+    "content": "The recent unrest in Manipur is rooted in long-standing grievances among tribal communities, who accuse the government of systematic neglect and underdevelopment."
+  },
+  {
+    "id": 3,
+    "source": "SuspiciousBlog",
+    "title": "Shocking discovery about Manipur you won’t believe!",
+    "content": "A miracle cure was discovered in Manipur, but it’s being banned by the media. The hidden truth is finally out. Unreported by mainstream media!"
+  },
+  {
+    "id": 4,
+    "source": "CNN",
+    "title": "Elections in Bihar bring surprising results",
+    "content": "The elections in Bihar saw unexpected outcomes..."
+  },
+  {
+    "id": 5,
+    "source": "NDTV",
+    "title": "Economic crisis in Sri Lanka worsens",
+    "content": "Amid shortages and inflation, the economic crisis in Sri Lanka deepens."
+  }
+]
